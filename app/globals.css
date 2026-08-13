@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Urutan layer */
 @layer base {
   *, ::before, ::after {
     box-sizing: border-box;
