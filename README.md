@@ -15,6 +15,29 @@ Precision analytics for your **capital & savings**. Track income flows, monitor 
 
 ---
 
+## 📸 Application Preview
+
+<p align="center">
+  <img src="docs/screenshots/banner.png" width="100%" alt="Trackee Banner">
+</p>
+
+<br>
+
+| Dashboard | Activity |
+|:-----------:|:--------:|
+| <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="100%"> | <img src="docs/screenshots/activity.png" alt="Activity" width="100%"> |
+
+| Onboarding | Login |
+|:--------:|:--------:|
+| <img src="docs/screenshots/onboarding.png" alt="Onboarding" width="100%"> | <img src="docs/screenshots/login.png" alt="Login" width="100%"> |
+
+| Report | Profile |
+|:------:|:--------:|
+| <img src="docs/screenshots/report.png" alt="Report" width="100%"> | <img src="docs/screenshots/profile.png" alt="Profile" width="100%"> |
+
+---
+
+
 ## 🛠️️ Tech Stack
 
 ### Frontend & UI
