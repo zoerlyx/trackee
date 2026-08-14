@@ -36,7 +36,33 @@ Precision analytics for your **capital & savings**. Track income flows, monitor 
 | <img src="docs/screenshots/report.png" alt="Report" width="100%"> | <img src="docs/screenshots/profile.png" alt="Profile" width="100%"> |
 
 ---
+## 📂 Project Structure
 
+```text
+trackee/
+│
+├── app/                  # Next.js App Router pages and API routes
+├── components/           # Reusable UI components & analytics charts
+├── docs/                 # Documentation and screenshots
+├── hooks/                # Custom React hooks
+├── lib/                  # Utility functions, Supabase client, and types
+│
+├── .env.example          # Environment variables template
+├── .eslintrc.json        # ESLint configuration
+├── .gitignore            # Git ignore file
+├── components.json       # shadcn/ui configuration
+├── LICENSE               # MIT License
+├── next-env.d.ts         # TypeScript declarations for Next.js
+├── next.config.js        # Next.js configuration
+├── package-lock.json     # Lockfile for npm dependencies
+├── package.json          # Project dependencies and scripts
+├── postcss.config.js     # PostCSS configuration
+├── README.md             # Project overview
+├── tailwind.config.ts    # Tailwind CSS configuration
+└── tsconfig.json         # TypeScript configuration
+```
+
+---
 
 ## 🛠️️ Tech Stack
 
