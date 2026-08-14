@@ -25,3 +25,53 @@ Precision analytics for your **capital & savings**. Track income flows, monitor 
 - **Platform**: [Vercel](https://vercel.com/)
 
 ---
+
+
+## 🚀 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/zoerlyx/trackee.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd trackee
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Configure environment variables
+
+Copy the example environment file:
+
+```bash
+cp .env.example .env.local
+```
+
+Fill in your Supabase project credentials in .env.local:
+
+```env
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+```
+
+### 5. Start the development server
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```
+http://localhost:3000
+```
+
+---
